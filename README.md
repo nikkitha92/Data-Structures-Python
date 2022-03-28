@@ -3,3 +3,5 @@ Practicing data structures questions from Leetcode. Below are the programs compl
 - Problem 136. Single Number
 - Problem 169. Majority Element
 - Problem 7. Reverse an integer
+- Problem 167. Two sum II
+- Problem 15. 3sum
